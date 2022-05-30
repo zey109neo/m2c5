@@ -1,7 +1,5 @@
 #Exercise 1
 
-from unicodedata import name
-
 
 student = {
     "name": "steve",
